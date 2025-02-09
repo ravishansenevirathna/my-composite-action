@@ -25,5 +25,3 @@ runs:
     - name: Run test script
       run: node test.js
       shell: bash
-
-#dev final
